@@ -3,7 +3,7 @@
 	"setting.csm_quality_level"		"3"
 	"setting.mat_software_aa_strength"		"1"
 	"VendorID"		"4318"
-	"DeviceID"		"4489"
+	"DeviceID"		"7041"
 	"setting.fullscreen"		"1"
 	"setting.nowindowborder"		"0"
 	"setting.aspectratiomode"		"1"
